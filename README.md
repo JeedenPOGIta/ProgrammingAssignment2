@@ -29,7 +29,10 @@ normalization. The line of code is as follows: <br>
 The formula for normalization: <br>
 ![image](https://github.com/user-attachments/assets/d0b33d15-05f3-476a-a18a-a6440fe7fcf2) <br>
 
-And, of course, we output the normalized values of the array. <br><br>
+And, of course, we output the normalized values of the array. <br>
+
+![image](https://github.com/user-attachments/assets/592321e4-27a6-447e-828a-936d4180cc8b) <br><br>
+
 
 # [Problem 2 - Divisible by 3 Problem] <br><br>
 <h3>Description and thought process</h3><br>
@@ -56,6 +59,11 @@ with a list of values listed in a vertical manner. This might be fine for some p
 my case. Hence, I found a way to list them horizontally using an output variable and ".append()" <br>
 function together with the ".join()" and "map()" function to turn the list into single string and <br>
 display the outputs in a neat and clean manner. <br><br>
+
+![image](https://github.com/user-attachments/assets/6759d651-15ed-4e91-9d06-5dd649aa03a4) <br>
+
+Sample output: <br>
+![image](https://github.com/user-attachments/assets/b3dabfa7-0be6-4c27-b90b-6fded4d23709) <br><br>
 
 # [END OF THE REPOSITORY] <br>
 
