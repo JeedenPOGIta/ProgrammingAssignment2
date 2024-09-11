@@ -29,9 +29,11 @@ normalization. The line of code is as follows: <br>
 The formula for normalization: <br>
 ![image](https://github.com/user-attachments/assets/d0b33d15-05f3-476a-a18a-a6440fe7fcf2) <br>
 
-And, of course, we output the normalized values of the array. <br>
+And, of course, we output the normalized values of the array. It can be displayed in a variety <br>
+of ways. One way is to use the "np.save" and "np.load". Np.save function saves your file as a <br>
+numpy file which you can load into a code using the np.load function. The syntax is as follows: <br>
 
-![image](https://github.com/user-attachments/assets/17866c68-208a-4b09-8aab-65aaa51efc69) <br><br>
+![image](https://github.com/user-attachments/assets/fb012e3e-8871-4f25-bb8a-e84b10d5ddbc) <br><br>
 
 
 # [Problem 2 - Divisible by 3 Problem] <br><br>
@@ -54,13 +56,13 @@ and equal functions. The syntax will be as follows: <br>
 
 ![image](https://github.com/user-attachments/assets/d104a3a1-e728-4725-9cc0-2cb68b65dd17) <br>
 
-If you instead put "print(array[i,j])" at the end of the loop, you might find yourself presented <br>
-with a list of values listed in a vertical manner. This might be fine for some people but not in <br>
-my case. Hence, I found a way to list them horizontally using an output variable and ".append()" <br>
-function together with the ".join()" and "map()" function to turn the list into single string and <br>
-display the outputs in a neat and clean manner. <br><br>
+If you instead put "print(array[i,j])" or just use np.save and np.load, at the end of the loop, <br>
+you might find yourself presented with a list of values listed in a vertical manner. This might <br>
+be fine for some people but not in my case. Hence, I found a way to list them horizontally using <br>
+an output variable and ".append()" function together with the ".join()" and "map()" function to <br>
+turn the list into single string and display the outputs in a neat and clean manner. <br><br>
 
-![image](https://github.com/user-attachments/assets/6759d651-15ed-4e91-9d06-5dd649aa03a4) <br>
+![image](https://github.com/user-attachments/assets/d51c700e-1a24-4cd8-b1ef-284e4109fdfe) <br>
 
 Sample output: <br>
 ![image](https://github.com/user-attachments/assets/b3dabfa7-0be6-4c27-b90b-6fded4d23709) <br><br>
