@@ -62,7 +62,10 @@ be fine for some people but not in my case. Hence, I found a way to list them ho
 an output variable and ".append()" function together with the ".join()" and "map()" function to <br>
 turn the list into single string and display the outputs in a neat and clean manner. <br><br>
 
-![image](https://github.com/user-attachments/assets/d51c700e-1a24-4cd8-b1ef-284e4109fdfe) <br>
+![image](https://github.com/user-attachments/assets/c713295a-7448-4561-a797-e87bce1d0a73) <br>
+
+![image](https://github.com/user-attachments/assets/c098747a-f18e-4537-82b2-070d9eedb507) <br>
+
 
 Sample output: <br>
 ![image](https://github.com/user-attachments/assets/b3dabfa7-0be6-4c27-b90b-6fded4d23709) <br><br>
