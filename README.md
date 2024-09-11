@@ -31,7 +31,7 @@ The formula for normalization: <br>
 
 And, of course, we output the normalized values of the array. <br>
 
-![image](https://github.com/user-attachments/assets/592321e4-27a6-447e-828a-936d4180cc8b) <br><br>
+![image](https://github.com/user-attachments/assets/17866c68-208a-4b09-8aab-65aaa51efc69) <br><br>
 
 
 # [Problem 2 - Divisible by 3 Problem] <br><br>
