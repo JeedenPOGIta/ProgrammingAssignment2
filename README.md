@@ -1,14 +1,17 @@
 # [Problem 1 - Normalization problem] <br><br>
 
-<h3>Description and thought process</h3><br>
+<h2>Description and thought process</h2><br>
 
+### What is the program? 
 The normalization problem asks the program to "normalize" the given random array. This can be done <br>
 by simply getting the mean of the array and "centralizing the values by subtracting the mean to <br>
 each value, and dividing the centralized values by the standard deviation. <br><br> 
 
 To create this program, we first need to import the Numpy functions as such: <br>
 
-![image](https://github.com/user-attachments/assets/537bccca-36a0-4bfd-ba44-c59633a295fc) <br>
+```
+import numpy as np
+```
 
 Then, we create a 5x5 array and fill it with random integers. We can achieve this by using the <br>
 "np.random.random()" function. However, this function will fill the array with float values <br>
@@ -37,8 +40,9 @@ numpy file which you can load into a code using the np.load function. The syntax
 
 
 # [Problem 2 - Divisible by 3 Problem] <br><br>
-<h3>Description and thought process</h3><br>
+<h2>Description and thought process</h2><br>
 
+### What is the program? 
 The Divisible_by_3_problem is a program that displays the squares of the first 100 positive integers <br>
 that is placed in a 10x10 array and identifies which of the values are divisible by 3. <br>
 
